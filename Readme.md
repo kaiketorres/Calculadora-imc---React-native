@@ -21,8 +21,8 @@ Bem-vindo ao projeto Calculadora de IMC! Este é o meu primeiro aplicativo em Re
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/kaiketorres/IMC-Calculator.git
-   cd IMC-Calculator
+   git clone https://github.com/kaiketorres/Calculadora-imc-React-native.git
+   cd Calculadora-imc-React-native
    ```
 
 2. **Clone o repositório:**
