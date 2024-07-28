@@ -26,7 +26,7 @@ export default function App() {
 
   return (
     <NavigationContainer>
-      <Pilhas.Navigator initialRouteName="genero">
+      <Pilhas.Navigator>
         <Pilhas.Screen
           name="home"
           component={Screen_home}

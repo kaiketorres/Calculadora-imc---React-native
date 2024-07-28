@@ -6,7 +6,8 @@ export default StyleSheet.create({
     justifyContent: 'space-around',
     alignItems: 'center',
     backgroundColor: '#2F2F2F',
-    paddingHorizontal: 30
+    paddingHorizontal: 50,
+    
   },
   titles: {
     fontFamily: 'MerriweatherSans',
