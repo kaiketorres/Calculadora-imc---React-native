@@ -100,29 +100,6 @@ Contribuições são bem-vindas! Se você tiver alguma sugestão, sinta-se à vo
 Para qualquer dúvida ou consulta, por favor entre em contato:
 
 Nome: Kaike Torres da Silva
-Email: kaiketorresdasilva@.com
+Email: kaiketorresdasilva@gmail.com
 
 Muito obrigado por conferir meu projeto! 😊
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
