@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Calculadora-imc",
-    "slug": "Calculadora-imc",
+    "slug": "calculadora-imc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,16 +24,8 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "151ba716-642d-4a4c-94f1-8c889c8e8482"
-      }
-    },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "plugins": [
-      "expo-font"
     ]
   }
 }
